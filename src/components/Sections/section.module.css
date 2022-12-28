@@ -1,0 +1,12 @@
+.container {
+    margin: 0 auto;
+    display: block;
+    width: 1200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container>h2,
+p {
+    text-align: center;
+}
